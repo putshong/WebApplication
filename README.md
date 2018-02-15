@@ -60,4 +60,4 @@ Cascading Style Sheet
 ```
 
 Box Model
-![Boxmodelimage](E:\picture\boxmodel.png)
+![Boxmodelimage](./image\boxmodel.png)
